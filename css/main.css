@@ -18,3 +18,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
